@@ -8,6 +8,9 @@
 
 In addition, we propose **SuperSQL**, which achieves competitive performance with execution accuracy of **87%** and **62.66%** on the Spider and BIRD test sets, respectively.
 
+>[!TIP]
+> We also offer the [NL2SQL Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook), which tracks the latest NL2SQL advancements in the literature and offers practical guidance for researchers and practitioners! If you have any suggestions, feel free to submit an issue to us!
+
 ## :tada:News
 
 [24/9/23] We release NL2SQL360 `1.1.0` version, which supports two new metrics **Reward-based VES** (RVES), **Soft-F1 Score** (F1), from [BIRD-Mini-Dev ](https://github.com/bird-bench/mini_dev) dataset. **Please update your package with** `pip install --upgrade nl2sql360`.
